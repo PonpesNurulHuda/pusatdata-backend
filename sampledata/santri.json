@@ -1,0 +1,18 @@
+[
+    {
+        "nis" : 1,
+        "nama" : "rifki",
+        "tingkat" : "1",
+        "kelas" : "1A" 
+    },{
+        "nis" : 2,
+        "nama" : "Ahmad",
+        "tingkat" : "1",
+        "kelas" : "1A" 
+    },{
+        "nis" : 3,
+        "nama" : "sururi",
+        "tingkat" : "2",
+        "kelas" : "2A" 
+    }
+]

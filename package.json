@@ -1,0 +1,27 @@
+{
+  "name": "pusatdata-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonpesNurulHuda/pusatdata-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/PonpesNurulHuda/pusatdata-backend/issues"
+  },
+  "homepage": "https://github.com/PonpesNurulHuda/pusatdata-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "supertest": "^6.2.4"
+  }
+}
